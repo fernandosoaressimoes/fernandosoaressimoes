@@ -7,3 +7,11 @@ Olá, eu sou o Fernando 👋
 🍛 Sabor Local / SLFood Plataforma própria de delivery (app do cliente, painel administrativo, backend relacional e chatbot com IA). Projeto acadêmico em equipe — 2º lugar geral na entrega final da faculdade. Atuei na modelagem do banco de dados relacional e na construção das APIs (Xano), além da automação de atendimento via IA (n8n).
 
 🏦 Sistema Bancário via Console (Java/POO) Simulador de operações bancárias em Java, refatorado de uma versão procedural para uma arquitetura orientada a objetos (classes Cliente, Conta, Banco, Main), aplicando encapsulamento, construtores e associação entre classes.
+
+🛠️ Tecnologias e ferramentas
+
+Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+
+📫 Contato
+
+Mostrar Imagem 📧 Fernando.soares.simoes02@gmail.com
