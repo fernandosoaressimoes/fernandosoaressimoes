@@ -10,8 +10,8 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 
-Mostrar Imagem Mostrar Imagem Mostrar Imagem Mostrar Imagem
+Java Python Git GitHub POO APIs REST Xano FlutterFlow n8n
 
 📫 Contato
 
-Mostrar Imagem 📧 Fernando.soares.simoes02@gmail.com
+💼 LinkedIn 📧 Fernando.soares.simoes02@gmail.com
