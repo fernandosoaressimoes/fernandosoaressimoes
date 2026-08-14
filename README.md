@@ -9,7 +9,7 @@ Olá, eu sou o Fernando 👋
 🏦 Sistema Bancário via Console (Java/POO) Simulador de operações bancárias em Java, refatorado de uma versão procedural para uma arquitetura orientada a objetos (classes Cliente, Conta, Banco, Main), aplicando encapsulamento, construtores e associação entre classes.
 
 🛠️ Tecnologias e ferramentas
-
+ <img src="https://skillicons.dev/icons?i=aws,python,java,flutter,docker,mysql,git,github,windows,figma" />
 Java Python Git GitHub POO APIs REST Xano FlutterFlow n8n
 
 📫 Contato
