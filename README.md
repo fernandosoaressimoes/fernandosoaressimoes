@@ -14,8 +14,7 @@ Olá, eu sou o Fernando 👋
   <img src="https://skillicons.dev/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n" />
   <img src="https://img.shields.io/badge/POO-15181f?style=for-the-badge" />
   <img src="https://img.shields.io/badge/REST%20API-15181f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Xano-15181f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FlutterFlow-15181f?style=for-the-badge" />
+  <img src="[https://img.shields.io/badge/Xano-15181f?style=for-the-badge](https://www.google.com/imgres?q=xano%20banco%20de%20dados%20imagem%20da%20logotipo&imgurl=https%3A%2F%2Fcdn.prod.website-files.com%2F687e8d1b96312cc631cafec7%2F69e9f34fef772fb548d6afaf_icon.jpeg&imgrefurl=https%3A%2F%2Fwebflow.com%2Fintegrations%2Fxano&docid=cCGiFKJAcjkDTM&tbnid=uR8jUHYPgBVtVM&vet=12ahUKEwj4rNrRsp-WAxUBH7kGHQAMB1YQnPAOegQIQhAA..i&w=801&h=800&hcb=2&ved=2ahUKEwj4rNrRsp-WAxUBH7kGHQAMB1YQnPAOegQIQhAA)" />
 </p>
       
 
