@@ -23,6 +23,7 @@ Olá, eu sou o Fernando 👋
   <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/n8n.svg" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/api.svg" width="48" height="48" />
   <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/flutterflow.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/xano.svg" width="48" height="48" />
 </p>
 
 📫 Contato
