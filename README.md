@@ -11,7 +11,7 @@ Olá, eu sou o Fernando 👋
 🛠️ Tecnologias e ferramentas
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n,api,flutterflow" />
-  <img src="https://img.shields.io/badge/Xano-15181f?style=for-the-badge" />
+  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/xano-icon.svg" width="48" height="48" />
 </p>
 
 📫 Contato
