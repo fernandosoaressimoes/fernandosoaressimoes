@@ -9,6 +9,7 @@ Olá, eu sou o Fernando 👋
 🏦 Sistema Bancário via Console (Java/POO) Simulador de operações bancárias em Java, refatorado de uma versão procedural para uma arquitetura orientada a objetos (classes Cliente, Conta, Banco, Main), aplicando encapsulamento, construtores e associação entre classes.
 
 🛠️ Tecnologias e ferramentas
+
 <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/stack.svg" height="48" />
 </p>
 
