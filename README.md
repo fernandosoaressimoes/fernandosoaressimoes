@@ -10,8 +10,12 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 
- <img src="https://skillicons.dev/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n" />
-Java Python Git GitHub POO APIs REST Xano FlutterFlow n8n
+<img src="https://skillicons.dev/icons?i=java,python,git,github,n8n" />
+<img src="https://skillicons.dev/icons?i=java,python,git,github,n8n,flutter" />
+<img src="https://img.shields.io/badge/POO-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Xano-6E44FF?style=for-the-badge" />
+
 
 📫 Contato
 
