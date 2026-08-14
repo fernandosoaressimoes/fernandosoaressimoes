@@ -10,7 +10,7 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 
-<img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/java.svg, python" width="48" height="48" />
+<img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/java.svg, python.svg" width="48" height="48" />
 
 📫 Contato
 
