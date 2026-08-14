@@ -10,11 +10,9 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,flutter,docker,mysql,git,github,windows,figma" />
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/n8n-icon.svg" width="48" height="48" />
-  <img src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/main/assets/xano-icon.svg" width="48" height="48" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n,api,flutterflow" />
+  <img src="https://img.shields.io/badge/Xano-15181f?style=for-the-badge" />
 </p>
-
 
 📫 Contato
 
