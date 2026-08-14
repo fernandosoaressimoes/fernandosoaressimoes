@@ -10,7 +10,20 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 
-<img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/java.svg, python.svg" width="48" height="48" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/python.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/java.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/flutter.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/docker.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/mysql.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/git.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/github.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/windows.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/figma.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/n8n.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/api.svg" width="48" height="48" />
+  <img src="https://raw.githubusercontent.com/fernandosoaressimoes/skill-icons/main/assets/flutterflow.svg" width="48" height="48" />
+</p>
 
 📫 Contato
 
