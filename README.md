@@ -10,7 +10,13 @@ Olá, eu sou o Fernando 👋
 
 🛠️ Tecnologias e ferramentas
 
- <img src="[https://skillicons.dev/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,](https://skillicons.dev/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n)" /> 
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,flutter,docker,mysql,git,github,windows,figma,n8n" />
+  <img src="https://img.shields.io/badge/POO-15181f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-15181f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xano-15181f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FlutterFlow-15181f?style=for-the-badge" />
+</p>
       
 
 
